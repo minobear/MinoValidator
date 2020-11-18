@@ -1,0 +1,22 @@
+bot-token: ''
+
+mysql:
+  host: '127.0.0.1'
+  port: '3306'
+  database: ''
+  username: ''
+  password: ''
+
+# Verifies kick messages
+join-discord-server: '&f請先加入Discord米粉群: &bhttps://discord.gg/ctqxeke'
+find-the-bot: '&f並找到&e「MinoUHC小幫手」&f機器人'
+private-message-key: '&f私訊他您的驗證號碼: &6<key-number>'
+finally-complete: '&a驗證通過後就能進入伺服器囉!'
+
+# IP kick messages
+ip-has-logged-another-account: '&c你的IP位置已經被Minecraft ID為 &e<name> &c登入過了！'
+
+# Discord private messages
+verified-success: ':white_check_mark: **<name>** 驗證成功, 你現在能夠進入MinoUHC伺服器囉！'
+verified-failed: ':x: 驗證碼輸入錯誤！'
+has-already-verified-by-mcid: ':x: 你的Discord帳號已經被Minecraft ID為: **<name>** 驗證過了！'

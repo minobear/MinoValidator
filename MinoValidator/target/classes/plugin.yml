@@ -1,0 +1,7 @@
+name: MinoValidator
+version: 1.0
+main: me.mino.minovalidator.MinoValidator
+api-version: 1.16
+softdepend:
+  - QoolUHC
+  - JDA
